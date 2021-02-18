@@ -1,11 +1,13 @@
 button.call-to-action {
     background-color: green;
+    margin-bottom: 2px;
+    margin-right: 5px;
 }
 
-button:hover {
-    padding: 18px;
+.button {
+    padding: 5px;
     border-radius: 8px;
-    margin: 6px;
+    margin: 10px;
 }
 
 body {
