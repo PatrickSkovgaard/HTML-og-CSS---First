@@ -1,0 +1,34 @@
+button.call-to-action {
+    background-color: green;
+}
+
+button:hover {
+    padding: 18px;
+    border-radius: 8px;
+    margin: 6px;
+}
+
+body {
+    color:blue;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+.flex-container2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.flex-item {
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 50px;
+    background-color: lightgrey;
+}
+

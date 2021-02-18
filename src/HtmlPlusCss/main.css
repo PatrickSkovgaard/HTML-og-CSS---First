@@ -1,0 +1,30 @@
+body {
+    background-color:black; font-size: 16px; text-align: center
+}
+
+ol {
+    color:green;
+}
+
+ul {
+    color:red;
+}
+
+h1 {
+    color:magenta;
+}
+
+h2 {
+    color:orange;
+}
+
+p {
+    color:yellow;
+}
+
+.button {
+    color:grey;
+    padding: 4px;
+    border-radius: 4px;
+    margin: 10px;
+}
