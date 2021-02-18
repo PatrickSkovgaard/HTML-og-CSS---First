@@ -9,7 +9,7 @@ button:hover {
 }
 
 body {
-    color:blue;
+    color: black;
 }
 
 .flex-container {
@@ -32,3 +32,31 @@ body {
     background-color: lightgrey;
 }
 
+.asshole-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.asshole {
+    border: 2px solid black;
+    border-radius: 100px;
+    padding: 50px;
+    color: mediumblue;
+    background-color: tan;
+}
+
+.asshole1 {
+    flex-grow: 1;
+    text-align: center;
+}
+
+.asshole2 {
+    flex-grow: 10;
+    text-align: center;
+}
+
+.asshole3 {
+    flex-grow: 3;
+    text-align: center;
+}
